@@ -31,5 +31,4 @@ public class Implicit extends AppCompatActivity {
         });
 
     }
-
 }
